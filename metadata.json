@@ -1,0 +1,6 @@
+{
+  "name": "SevaMitra",
+  "description": "Your Voice. Your Services. Your Government. Official Indian Citizen Services Platform for scheme discovery, grievance redressal, DigiLocker verification, and AI navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
